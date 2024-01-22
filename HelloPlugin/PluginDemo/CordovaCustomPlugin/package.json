@@ -1,0 +1,17 @@
+{
+  "name": "customplugin",
+  "version": "1.0.0",
+  "description": "A custom cordova plugin",
+  "cordova": {
+    "id": "customplugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "ISC"
+}
